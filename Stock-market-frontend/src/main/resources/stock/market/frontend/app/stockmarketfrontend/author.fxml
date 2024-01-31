@@ -16,9 +16,9 @@
             </Text>
          </children>
       </Pane>
-      <Text layoutX="35.0" layoutY="403.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Приложение разработала студент Марина Сергеевна ПИ19-5" wrappingWidth="499.2958984375">
+      <Text layoutX="35.0" layoutY="403.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Приложение разработала Марина Андреевна Чернышева, ЗБ-ПИ21-2" wrappingWidth="499.2958984375">
          <font>
-            <Font name="Roboto" size="29.0" />
+            <Font name="Roboto" size="20.0" />
          </font>
       </Text>
       <Text layoutX="35.0" layoutY="147.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Stock MarketFX - кросс-платформенная система учета результатов биржевых торгов по обыкновенным акциям, осуществляющая по запросу пользователя расчет за выбранный период максимально возможной доходности портфеля из выбранного набора акций." wrappingWidth="749.2958984375">
