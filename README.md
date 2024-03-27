@@ -1,1 +1,1 @@
-# **Кросс-платформенная система учета результатов биржевых торгов по обыкновенным акциям, осуществляющая по запросу пользователя расчет за выбранный период максимально возможной доходности портфеля из выбранного набора акций**
+# **A cross-platform system for recording the results of exchange trading in ordinary shares, implemented at the user's request for a selected period of the maximum possible estimated return on a portfolio of one set of shares**
